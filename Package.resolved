@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Neolith",
+        "repositoryURL": "https://github.com/jemmons/Neolith.git",
+        "state": {
+          "branch": null,
+          "revision": "20d07e843dc9dbe7e9c12f3a115cdd1d0d514022",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "Plummet",
+        "repositoryURL": "https://github.com/jemmons/Plummet.git",
+        "state": {
+          "branch": null,
+          "revision": "d1fc0b2c67a49ebb1f1366e64ea539ee9f21b292",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "43931b7a7daf8120a487601530c8bc03ce711992",
+          "version": "2.25.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
